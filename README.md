@@ -1,3 +1,5 @@
+![logo](https://github.com/user-attachments/assets/a02e5878-0800-4cd5-82eb-fe3fa415314f)
+
 # Python Requirements
 - Pillow
 - NumPy
