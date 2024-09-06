@@ -1,0 +1,9 @@
+"Patch"
+{
+    include "materials/models/cpthazama/fgoa/shared_common.vmt"
+    replace
+    {
+        "$basetexture" 				"models/cpthazama/fgoa/svt0010/SVT_0010_S03_face"
+        "$phongexponenttexture"		"models/cpthazama/fgoa/svt0010/SVT_0010_S03_face_s"
+    }
+}
