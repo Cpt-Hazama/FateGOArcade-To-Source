@@ -1,0 +1,2 @@
+python fgoa.py
+pause
