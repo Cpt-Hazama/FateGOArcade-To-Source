@@ -4,6 +4,9 @@
 - Pillow
 - NumPy
 
+# Recommended
+Using my modified Noesis plugin will allow better compatibility with this script: https://github.com/Cpt-Hazama/FGO-Arcade-OBJ-Noesis-Plugin
+
 # Usage
 - Copy the script into a directory containing TGA files extracted from Fate/Grand Order Arcade (or put the textures in the script's directory)
 - Run the script via command prompt: python fgoa.py
