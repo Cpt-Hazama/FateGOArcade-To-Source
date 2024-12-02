@@ -16,6 +16,8 @@ Using my modified Noesis plugin will allow better compatibility with this script
 - You can find my example VMT stuff in the 'VMT Examples' folder, as well as the required shaders, to recreate the visuals from Fate/Grand Order Arcade
 
 # Media
+https://github.com/user-attachments/assets/c3dab1de-d6cb-44ec-a2ea-8fcaff0a4574
+
 ![1](https://github.com/user-attachments/assets/f9b71d1e-b485-4028-9b05-556032166e09)
 ![2](https://github.com/user-attachments/assets/e2b0d48d-fede-4efc-b0d4-63c2489046aa)
 ![3](https://github.com/user-attachments/assets/9eaa0589-46dc-4418-89ea-f2200bb4a2ac)
