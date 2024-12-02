@@ -1,0 +1,10 @@
+"Patch"
+{
+    include "materials/models/cpthazama/fgoa/shared_metal.vmt"
+    replace
+    {
+        "$basetexture" 				"models/cpthazama/fgoa/svt0011/SVT_0011_S01_boots"
+        "$bumpmap"					"models/cpthazama/fgoa/svt0011/SVT_0011_S01_boots_n"
+        "$phongexponenttexture"		"models/cpthazama/fgoa/svt0011/SVT_0011_S01_boots_s"
+    }
+}

@@ -1,0 +1,10 @@
+"Patch"
+{
+    include "materials/models/cpthazama/fgoa/shared_common.vmt"
+    replace
+    {
+        "$basetexture" 				"models/cpthazama/fgoa/svt0011/SVT_0011_S01_hair"
+        "$bumpmap"					"models/cpthazama/fgoa/svt0011/SVT_0011_S01_hair_n"
+        "$phongexponenttexture"		"models/cpthazama/fgoa/svt0011/SVT_0011_S01_hair_s"
+    }
+}

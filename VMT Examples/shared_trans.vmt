@@ -20,5 +20,5 @@
     "$rimlightexponent"          "5000"
     "$rimlightboost"             "2"
 
-    "$lightwarptexture"          "models/cpthazama/fgoa/shader2"
+    "$lightwarptexture"          "models/cpthazama/fgoa/shader2d"
 }

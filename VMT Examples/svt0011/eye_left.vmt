@@ -1,0 +1,10 @@
+"Patch"
+{
+    include "materials/models/cpthazama/fgoa/shared_eyes.vmt"
+    replace
+    {
+        "$basetexture" 				"models/cpthazama/fgoa/svt0011/SVT_0011_S01_eye_left"
+        "$detail" 				    "models/cpthazama/fgoa/svt0011/SVT_0011_S01_eye_left"
+        "$phongexponenttexture"		"models/cpthazama/fgoa/svt0011/SVT_0011_S01_eye_left_s"
+    }
+}

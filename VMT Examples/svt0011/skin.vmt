@@ -1,0 +1,8 @@
+"Patch"
+{
+    include "materials/models/cpthazama/fgoa/shared_skin.vmt"
+    replace
+    {
+        "$basetexture" 				"models/cpthazama/fgoa/svt0011/SVT_0011_S01_skin"
+    }
+}
